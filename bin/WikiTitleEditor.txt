@@ -1,0 +1,29 @@
+வனவிலங்குகள் காப்பகம் : NO_CHANGE_FOUND
+மகரந்தம் காவும் சில்வண்டு : NO_CHANGE_FOUND
+சுவர் முள்ளங்கி : NO_CHANGE_FOUND
+ஆறுநெல்லி : NO_CHANGE_FOUND
+கந்து கஸ்தூரி : NO_CHANGE_FOUND
+வனவிலங்குகள் காப்பகம் : NO_CHANGE_FOUND
+மகரந்தம் காவும் சில்வண்டு : NO_CHANGE_FOUND
+சுவர் முள்ளங்கி : NO_CHANGE_FOUND
+ஆறுநெல்லி : NO_CHANGE_FOUND
+கந்து கஸ்தூரி : NO_CHANGE_FOUND
+பால்பெருக்கி : SUCCESS
+பாறைப் பல்லி : SUCCESS
+நீலகிரி பொந்து பாம்பு : SUCCESS
+இந்தியக் குள்ள நரி : SUCCESS
+மனிதர் : SUCCESS
+பால்பெருக்கி : NO_CHANGE_FOUND
+பாறைப் பல்லி : NO_CHANGE_FOUND
+நீலகிரி பொந்து பாம்பு : NO_CHANGE_FOUND
+இந்தியக் குள்ள நரி : NO_CHANGE_FOUND
+மனிதர் : NO_CHANGE_FOUND
+மேற்கத்திய வலசை வாலாட்டி : CHANGE_CANCELLED
+மேற்கத்திய வலசை வாலாட்டி : CHANGE_CANCELLED
+ஆங்கிலத்தில் கிரேக்க இலத்தீன் சொற்கூறுகள் : NO_CHANGE_FOUND
+சென்னை முள்ளெலி : SUCCESS
+சம்பங்கி : NO_CHANGE_FOUND
+சென்னை முள்ளெலி : NO_CHANGE_FOUND
+சம்பங்கி : NO_CHANGE_FOUND
+முக்கர் முதலை  : SUCCESS
+சிறியா நங்கை : SUCCESS
