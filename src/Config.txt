@@ -1,5 +1,5 @@
 username=Rtssathishkumar
-password=Kumar3333Sat
+password=
 sourcefile=/home/sathishrtskumar/workspace/Cleaner/src/title.txt
 comments=- [.[A-z]] ---> A-z
 throttle=10000
